@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "xr": "bin/xr"
+    "xr": "bin/xr",
+    "song": "./bin/cli.js",
+    "cr": "./lib/create.js"
   },
   "keywords": [],
   "author": "",
